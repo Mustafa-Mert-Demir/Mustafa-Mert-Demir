@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mustafa-Mert-Demir
-- 👀 I’m interested in Kodlama ve Donanım
-- 🌱 I’m currently learning Codding and Afyon Kocatepe üniversitesinde Bilgisayar mühendisliği okuyorum
+- 👀 I'm generally interested in coding and hardware-related fields.
+- 🌱 I'm currently learning coding, and I am studying computer engineering at Afyon Kocatepe University.
 - 📫 How to reach me Mustafa.Mert.Demir.mmd@gmail.com
 
 <!---
