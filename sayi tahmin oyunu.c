@@ -7,12 +7,12 @@ int main(int argc, char *argv[]) {
 	
 	int sayi,rando;
 	srand(time(0));
-	// rastgele sayı üretmek için  seed ayarı.
+	// rastgele sayi Ã¼retmek iÃ§in  seed ayarÃ½.
 	rando=rand()%100 +1;
-	// bir 100 arası rastgele sayı üretme
+	// bir 100 arasÃ½ rastgele sayÃ½ Ã¼retme
 	
 	
-	printf("Sayi tahmin oyununa giri yaptiniz.\n");
+	printf("Sayi tahmin oyununa giris yaptiniz.\n");
 	printf("Oyuna baslamak icin bir sayi tuslayiniz: ");
 	scanf("%d",&sayi);
 	
